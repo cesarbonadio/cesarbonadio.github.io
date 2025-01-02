@@ -12,14 +12,14 @@ I strive to be a team player, problem solver, and mentor who helps other develop
 
 <p>Worked with front-end frameworks like Vuejs, angular and react. Knowledge of web dev core technologies (html,css, plain js). Worked with back-end frameworks like django, laravel, express, aspnetcore. Strong logical and algorithmic skill. Knowledge implementing Deep Learning software features, such a LSTM networks.  Experience in cloud computing and serverless (linode, gcp, AWS). Experience with Docker. Experience with graphql.<br><br>
 
-<p>You can find me on<br>
-<a href="https://www.linkedin.com/in/cesar-augusto-bonadio-3838b1154/">Linkedin</a> <br> 
-<a href="github.com/cesarbonadio">Github</a><br>
+<p>You can find me on: 
+<a href="https://www.linkedin.com/in/cesar-augusto-bonadio-3838b1154/">Linkedin</a>,
+<a href="github.com/cesarbonadio">Github</a>,
 <a href="https://profile.codersrank.io/user/cesarbonadio">Codersrank</a>.</p>
 
-<a href="https://drive.google.com/uc?export=download&id=10IlVZxsqkHiMeqqzPIjWanQLjTXDqWZu
-"><p>Click here to download my full resume</p></a>
+<p><a href="https://drive.google.com/uc?export=download&id=10IlVZxsqkHiMeqqzPIjWanQLjTXDqWZu
+">Click here to download my full resume</a>
 
-If you got interested on my profile<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="cesarbonadio123@gmail.com">cesarbonadio123@gmail.com</a>.
+If you got interested on my profile<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="cesarbonadio123@gmail.com">cesarbonadio123@gmail.com</a>.</p>
 
 <p>Cheers!</p>
