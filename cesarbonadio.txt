@@ -2,9 +2,7 @@
 <span id="a">cesar@bonadio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->cesarbonadio.txt<br/><br/>
 "<span id="k">Clean code always looks like it was written by someone who cares</span>". <!-- sjkfhskjf -->
 
-<p>Hey There! I'm Cesar Bonadio and this is my portfolio.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-
-<p>I'm a semi Senior Full Stack Developer with more than 4 years of work experience in the IT environment. More than 7 years of coding experience (working and academically combined). Devoted to always increase my skills through reading and research; always looking for an opportunity to learn something new and improve myself. I like to follow good coding practices and standards to provide good quality software. I strive to be a team player, problem solver, and mentor who helps other developers grow both professionally and personally.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>Hey There! I'm Cesar Bonadio. I'm a semi Senior Full Stack Developer with more than 4 years of work experience in the IT environment. More than 7 years of coding experience (working and academically combined). Devoted to always increase my skills through reading and research; always looking for an opportunity to learn something new and improve myself. I like to follow good coding practices and standards to provide good quality software. I strive to be a team player, problem solver, and mentor who helps other developers grow both professionally and personally.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 
 <p>Worked with front-end frameworks like Vuejs, angular and react. Knowledge of web dev core technologies (html,css, plain js). Worked with back-end frameworks like django, laravel, express, aspnetcore. Strong logical and algorithmic skill. Knowledge implementing Deep Learning software features, such a LSTM networks.  Experience in cloud computing and serverless (linode, gcp, AWS). Experience with Docker. Experience with graphql.<br><br>
 
