@@ -1,5 +1,5 @@
 <span id="a">cesar@bonadio</span>:<span id="b">~</span><span id="c">$</span> cd cesarbonadio/<!-- laglaglaglaglaglag -->About_Us
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->cesarbonadio.txt<br/><br/>
+<span id="a">cesar@bonadio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->cesarbonadio.txt<br/><br/>
 "<span id="k">Clean code always looks like it was written by someone who cares</span>". <!-- sjkfhskjf -->
 
 <p>Hey There! I'm Cesar Bonadio and this is my portfolio.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
@@ -10,11 +10,7 @@ Devoted to always increase my skills through reading and research; always lookin
 
 I strive to be a team player, problem solver, and mentor who helps other developers grow both professionally and personally.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 
-<p>Worked with front-end frameworks like Vuejs, angular and 
-    react. Knowledge of web dev core technologies (html,css, plain js). Worked with back-end frameworks like 
-    django, laravel, express, aspnetcore. Strong logical and algorithmic skill. Knowledge implementing Deep Learning 
-    software features, such a LSTM networks.  Experience in cloud computing and serverless (linode, gcp, AWS). 
-    Experience with Docker. Experience with graphql.<br><br><br>
+<p>Worked with front-end frameworks like Vuejs, angular and react. Knowledge of web dev core technologies (html,css, plain js). Worked with back-end frameworks like django, laravel, express, aspnetcore. Strong logical and algorithmic skill. Knowledge implementing Deep Learning software features, such a LSTM networks.  Experience in cloud computing and serverless (linode, gcp, AWS). Experience with Docker. Experience with graphql.<br><br>
 
 <p>You can find me on<br>
 <a href="https://www.linkedin.com/in/cesar-augusto-bonadio-3838b1154/">Linkedin</a> <br> 
